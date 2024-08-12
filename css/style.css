@@ -1,0 +1,19 @@
+buttonout{
+    background-color: red;
+    color: aqua;
+    padding: 4px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 1px 1px grey;
+    position: center;
+}
+
+buttonout:hover{
+    background-color: aqua;
+}
+
+pwelcome{
+    color: blue;
+    text-align: center;
+    text-transform: capitalize;
+}
+
