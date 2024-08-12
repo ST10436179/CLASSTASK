@@ -1,6 +1,7 @@
 const username = document.querySelector('#username')
 const password = document.querySelector('#password')
 const form = document.querySelector('.form')
+const signOut = document.querySelector('.sign_btn')
 
 
 
@@ -18,3 +19,5 @@ form.addEventListener('submit',(e)=>{
         window.location.href = 'loggedin.html'
     }
 })
+
+//sign out
